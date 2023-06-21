@@ -9,6 +9,15 @@ Una vez conocida y normalizada la información se procedió a realizar el EDA. P
 
 Cada EDA se utilizó como base para la creación del dashboard en PowerBI, por lo que las concluciones y KPIs están pensadas para explicarse junto con la presentación. El darshboard se encuentra con el nombre de: 'proyecto_MOOC_dashboard.pbix'. Dicho esto a continuación de presentan un par de conclusiones junto con los KPIs considerados más relevantes.
 
+Un par de comportamientos similares en los diferentes cursos son la preferencia por precios bajos y niveles introductorios. A continuación se presentan las tendencias en forma de gráficas:
+
+Cantidad de subscriptores vs precio:
+
+![subs_vs_price](https://github.com/RodoArellano/Proyecto_MOOC/assets/125421658/c0a3b664-ffae-4d05-b420-afd46befe171)
+
+Cantidad de subscriptores vs nivel:
+
+![subs_vs_level](https://github.com/RodoArellano/Proyecto_MOOC/assets/125421658/47ddd7dc-8b2f-4ce0-86ca-a2af2ed7d3ee)
 
 
 
