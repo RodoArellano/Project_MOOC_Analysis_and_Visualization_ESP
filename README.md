@@ -3,7 +3,7 @@ Análisis y visualización de datos sobre 3 diferentes empresas: Coursera, edx y
 
 El análisis utiliza diferentes parámetros dependiendo le empresa, algunos son idioma, nivel del curso, cantidad de subscriptores, precios, temas y mas.
 
-### Objetivo
+### Objetivo:
 Brindar recomendación para la creación de un una nueva empresa de plataforma virtual (MOOC) donde al igual que las mencionadas se puedan tomar cursos y certificaciones.
 
 ### ETL de los datasets utilizados
